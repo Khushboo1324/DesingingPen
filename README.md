@@ -119,7 +119,6 @@ The **Factory Pattern** encapsulates object creation logic inside a dedicated cl
 - Implementing and understanding the **Factory Design Pattern**
 - Organizing a small project with **clean architecture** and clear responsibilities
 
-```
 
 ## 11. Author
 **Author:** Khushboo
